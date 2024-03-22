@@ -1,11 +1,5 @@
-# march-demo
-This is my test repo created for demo purpose
+# Docker Jenkins Demo
 
-
-
-I am adding this line to demonstrate some basics of git
-
-
-
-Git is very very awesome tool.
-Git is very very powerful tool.
+1. We are writing dockerfile and docker-compose.yml. We will keep these files in this repository.
+2. From this Dockerfile, we will create an image and push this image to our Dockerhub.
+3. We will create the container using this docker image. To do it, we will be utilizing the docker-compsoe file.

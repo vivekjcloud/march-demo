@@ -1,0 +1,6 @@
+services:
+  nginx-service:
+    image: vivekjcloud/jan-batch:nginx2203
+    container_name: nginx-container
+    ports: 
+      - 8000:80
